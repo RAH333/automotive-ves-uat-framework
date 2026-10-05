@@ -1,0 +1,15 @@
+{
+  "adas_thresholds": {
+    "critical_distance_meters": 15.0,
+    "min_speed_kph": 30.0
+  },
+  "telematics_server": {
+    "ip": "127.0.0.1",
+    "port": 8080
+  },
+  "safety_standards": {
+    "iso26262_class": "ASIL-D"
+  }
+}
+
+Stores production-grade test parameters, mimicking customizable vehicle configuration metrics.
