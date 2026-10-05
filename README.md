@@ -1,5 +1,7 @@
 # automotive-ves-uat-framework
 
+Automotive Hardware-in-the-Loop (HIL) Test Automation Framework simulating UAT for an ADAS Emergency Braking & Telematics system
+
 
 # Automotive VES UAT Framework
 
@@ -21,7 +23,7 @@ An automated User Acceptance Testing (UAT) harness simulating Vehicle Electronic
    ```
 
    
-Automotive Hardware-in-the-Loop (HIL) Test Automation Framework simulating UAT for an ADAS Emergency Braking & Telematics system.
+.
 
 # Repository Description:
 
