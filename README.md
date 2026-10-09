@@ -1,3 +1,4 @@
+![Automotive VES UAT Framework](assets/ves_uat_framework.jpg)
 # automotive-ves-uat-framework
 
 Automotive Hardware-in-the-Loop (HIL) Test Automation Framework simulating UAT for an ADAS Emergency Braking & Telematics system
